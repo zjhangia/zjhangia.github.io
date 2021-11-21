@@ -1,0 +1,66 @@
+body {
+    background-color: cornsilk;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content_text p {
+    margin: 30px 90px;
+    font-size: 20px;
+}
+
+.moral p {
+    margin: 30px 0px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.moral ul {
+    margin-left: 90px;
+}
+
+.moral h2 {
+    margin-left: 90px;
+    font-style: italic;
+}
+
+.header h4 {
+    display: inline;
+    text-align: center;
+    font-style: italic;
+}
+
+.header {
+    overflow: hidden;
+    height: 100px;
+    width: 100%;
+}
+
+.nav {
+    float: left;
+    width: 33.3%;
+    height: 100%;
+}
+
+.header a {
+    text-decoration: none;
+    color: darkgreen;
+    font-size: 20px;
+}
+
+.footer h4 {
+    display: inline;
+    text-align: center;
+    font-style: italic;
+}
+
+audio {
+    margin: auto;
+    width: 40%;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 2px;
+}
