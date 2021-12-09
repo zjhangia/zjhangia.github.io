@@ -1,12 +1,12 @@
 body {
-    background-color: cornsilk;
+    background-color: rgb(204,232,207);
     font-family:Arial, Helvetica, sans-serif;
+    line-height:1.8;
 }
 
 h1 {
     text-align: center;
 }
-
 .content_text p {
     margin: 30px 90px;
     font-size: 20px;
